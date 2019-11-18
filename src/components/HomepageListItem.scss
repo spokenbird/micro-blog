@@ -1,0 +1,11 @@
+.home-list {
+    .card:nth-child(odd) {
+        margin-right: 10px;
+    }
+    .card-title {
+        margin: 2rem 0 1.68rem 0;
+    }
+    .card-action {
+        padding: 0;
+    }
+}
